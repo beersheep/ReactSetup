@@ -5,7 +5,9 @@
   "main": "index.html",
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "redux": "^3.6.0",
+    "webpack-dev-server": "^1.16.2"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
